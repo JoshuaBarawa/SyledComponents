@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/SyledComponents/static/js/main.fbe6767e.chunk.js",
+    "main.js.map": "/SyledComponents/static/js/main.fbe6767e.chunk.js.map",
+    "runtime-main.js": "/SyledComponents/static/js/runtime-main.01e9be38.js",
+    "runtime-main.js.map": "/SyledComponents/static/js/runtime-main.01e9be38.js.map",
+    "static/js/2.257fb3db.chunk.js": "/SyledComponents/static/js/2.257fb3db.chunk.js",
+    "static/js/2.257fb3db.chunk.js.map": "/SyledComponents/static/js/2.257fb3db.chunk.js.map",
+    "static/js/3.e02427a9.chunk.js": "/SyledComponents/static/js/3.e02427a9.chunk.js",
+    "static/js/3.e02427a9.chunk.js.map": "/SyledComponents/static/js/3.e02427a9.chunk.js.map",
+    "index.html": "/SyledComponents/index.html",
+    "static/js/2.257fb3db.chunk.js.LICENSE.txt": "/SyledComponents/static/js/2.257fb3db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01e9be38.js",
+    "static/js/2.257fb3db.chunk.js",
+    "static/js/main.fbe6767e.chunk.js"
+  ]
+}
